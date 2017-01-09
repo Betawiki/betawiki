@@ -6,10 +6,10 @@ toc_footers:
   - <a href='https://github.com/lord/slate'>Documentation Powered by Slate <3</a>
 
 includes:
-  - bienvenue
-  - découpeuse_laser
-  - plotter
-  - imprimante_3d
+  - _bienvenue
+  - _découpeuse_laser
+  - _plotter
+  - _imprimante_3d
 
 search: true
 ---
