@@ -26,7 +26,3 @@ Réalisez votre dessin avec un logiciel de dessin vectoriel, par exemple [Inksca
 <li>votre fichier est enregistré en <strong>.DXF</strong> (Fichier > Enregistrer sous)</li>
 </ul>
 </aside>
-
-[md](http://betawiki.github.io/slate/source/includes/test.md)
-
-[html](http://betawiki.github.io/slate/source/includes/testa.html)
