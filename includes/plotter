@@ -35,6 +35,6 @@
 </ul>
 </aside>
 
-<p><a href="http://betawiki.github.io/slate/#test">internal link</a></p>
+<p><a href="http://betawiki.github.io/slate/source/includes/test.md">md</a></p>
 
-<p><a href="http://betawiki.github.io/slate/testa.html">internal link</a></p>
+<p><a href="http://betawiki.github.io/slate/source/includes/testa.html">html</a></p>
