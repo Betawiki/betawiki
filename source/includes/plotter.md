@@ -27,6 +27,6 @@ Réalisez votre dessin avec un logiciel de dessin vectoriel, par exemple [Inksca
 </ul>
 </aside>
 
-[internal link](http://betawiki.github.io/slate/#test)
+[md](http://betawiki.github.io/slate/source/includes/test.md)
 
-[internal link](http://betawiki.github.io/slate/testa.html)
+[html](http://betawiki.github.io/slate/source/includes/testa.html)
