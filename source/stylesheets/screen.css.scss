@@ -353,14 +353,21 @@ html, body {
     clear:both;
   }
 
+  a {
+    color: #e60073;
+    font-weight: bold;
+    text-decoration: none;
+  }
+
   h1 {
     @extend %header-font;
     font-size: 30px;
+    color: #e60073;
     padding-top: 0.5em;
     padding-bottom: 0.5em;
     border-bottom: 1px solid #ccc;
     margin-bottom: $h1-margin-bottom;
-    margin-top: 2em;
+    margin-top: 1.5em; // 2em
     border-top: 1px solid #ddd;
     background-image: linear-gradient(to bottom, #fff, #f9f9f9);
   }
@@ -373,7 +380,8 @@ html, body {
   h2 {
     @extend %header-font;
     font-size: 20px;
-    margin-top: 4em;
+    color: #b30059;
+    margin-top: 2em; // 4em
     margin-bottom: 0;
     border-top: 1px solid #ccc;
     padding-top: 1.2em;
@@ -391,7 +399,7 @@ html, body {
   h3, h4, h5, h6 {
     @extend %header-font;
     font-size: 15px;
-    margin-top: 2.5em;
+    margin-top: 1em; // 2.5em
     margin-bottom: 0.8em;
   }
 
@@ -471,8 +479,8 @@ html, body {
     padding-top: 1em;
     padding-bottom: 1em;
     text-shadow: 0 1px 0 lighten($aside-notice-bg, 15%);
-    margin-top: 1.5em;
-    margin-bottom: 1.5em;
+    margin-top: 0.5em; // 1.5em
+    margin-bottom: 0.5em; // 1.5em
     background: $aside-notice-bg;
     line-height: 1.6;
 
